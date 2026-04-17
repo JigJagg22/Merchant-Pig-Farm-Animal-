@@ -18,9 +18,9 @@ Adds the Traveling Merchant's purple pig as a farm animal you can purchase from 
 ![Installation](https://i.imgur.com/ch2OUHQ.png)
 
 1. Locate your Game Folder and open the Mods folder inside it.
-2. [Download Latest Release](https://github.com/JigJagg22/Merchant-Pig-Farm-Animal-/releases/latest)
-3. Unzip the mod's zip file inside your Mods folder.
-4. ENJOY!
+2. [Download Latest Github Release](https://github.com/JigJagg22/Merchant-Pig-Farm-Animal-/releases/latest) or [Download Latest Nexus Release](https://www.nexusmods.com/stardewvalley/mods/45095?tab=files)
+4. Unzip the mod's zip file inside your Mods folder.
+5. ENJOY!
 
 > ⚠️ **WARNING:** Uninstalling this mod from an ongoing save will cause any Merchant Pigs, Gilded Truffles, and Gilded Truffle Oils to show as missing items. It is recommended to sell or remove all mod items before uninstalling!
 
