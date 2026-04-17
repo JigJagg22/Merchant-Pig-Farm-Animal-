@@ -18,7 +18,7 @@ Adds the Traveling Merchant's purple pig as a farm animal you can purchase from 
 ![Installation](https://i.imgur.com/ch2OUHQ.png)
 
 1. Locate your Game Folder and open the Mods folder inside it.
-2. [Download Latest Release](https://github.com/JigJagg22/Merchant-Pig-Farm-Animal/releases/latest)
+2. [Download Latest Release](https://github.com/JigJagg22/Merchant-Pig-Farm-Animal-/releases/latest)
 3. Unzip the mod's zip file inside your Mods folder.
 4. ENJOY!
 
