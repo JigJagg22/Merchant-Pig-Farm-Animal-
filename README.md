@@ -6,13 +6,6 @@ Adds the Traveling Merchant's purple pig as a farm animal you can purchase from 
 
 ![Gilded Truffle](https://i.imgur.com/YUCbIpY.png) **Gilded Truffle** — The Merchant Pig's normal produce. A Gilded Truffle will spawn every 3 Days.
 
-<details>
-<summary>Spoiler</summary>
-
-![Fez](https://i.imgur.com/Or3xmUK.png) **Fez** — When at max Hearts ![heart](https://i.imgur.com/NurlCFl.png) with your Merchant Pig, there is a 5% chance of him producing a Fez instead of a Gilded Truffle.
-
-</details>
-
 ---
 
 ![Installation](https://i.imgur.com/ch2OUHQ.png)
